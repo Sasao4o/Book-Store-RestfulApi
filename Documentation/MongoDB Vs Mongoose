@@ -1,0 +1,19 @@
+//         1ST SECTION //  
+ 
+.projection() == .select() bs l projection bt3ml overwrite l select bt3ml modifiying 
+
+.find() in mongodb return cursor in mongoose return query 
+//w8 query.cursor() in mongoose return cursor and has a next method wich can be iterated 
+
+
+$all Operator Doesnot Preserve order in querying an array but has differ behaviour with nested arr 
+$all:[1,2, 3] ttl3 l 
+x:[1,2,3]
+and
+x:[[1,2,3]] kol levels l nested ttl3
+
+ORDERS MATTERS IN OBJECT && ARRAY when filtering 
+find({x: [1,2]}) mtgble4 ({x:[2,1]})
+find({x:{w:10, h:20}}) mtgble4 ({x:{h:20, w:10}})
+
+OO
