@@ -28,7 +28,7 @@
     "passport-google-oauth20": "^2.0.0",
     "qrcode": "^1.4.4",
     "speakeasy": "^2.0.0",
-    "validator": "^13.1.1",
+    "validator": "^13.7.0",
     "xss-clean": "^0.1.1"
   }
 }
